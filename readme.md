@@ -12,3 +12,6 @@ C++11, Cmake and build essential are installed.
 edit $HOME/.docker/config.json file  
 "credsStore": "desktop" -> "credsStore": "osxkeychain"  
 ref : https://forums.docker.com/t/error-failed-to-solve-error-getting-credentials-err-exit-status-1-out/136124/4
+
+## Docker hub
+https://hub.docker.com/repository/docker/luckydipper/gtsam_tutorial/general
