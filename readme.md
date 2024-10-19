@@ -4,7 +4,7 @@ C++11, Cmake and build essential are installed.
 
 # How to turn on?
 1. install docker  
-2. `sudo ./buildDocker.bash`  
+2. `docker pull luckydipper/gtsam_tutorial:0.6`  
 3. `sudo ./execute.bash`  
 
 ## If you use MacOS.
